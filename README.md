@@ -78,7 +78,7 @@ Solution color: 255 255 255
 For below question, enter an integer or float
 Frames per second: 5
 NOTE: Codec, extension and its compatibility with the codec is not checked by the program, do your research on your own. Video made using cv2 module
-Codec: MJPG
+Codec: H264
 Extension: mp4
 ```
 
