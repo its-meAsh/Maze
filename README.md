@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](https://raw.githubusercontent.com/its-meAsh/python/main/Banner.png)
 # Maze Generator
 
 This Python script is a powerful tool for generating and solving mazes using a randomized Depth-First Search algorithm. It offers a wide range of customization options and can export the maze in various formats, including images, videos, binary data, and a 3D model.
